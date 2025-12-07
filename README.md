@@ -1,5 +1,5 @@
-Hi, I am Faiza
-CS student learning python and gaining hands-on coding experience
+<b>Hi, I am Faiza</b>
+<b>CS student learning python and gaining hands-on coding experience</b>
 Aiming for GSOC'26
 I’m passionate about building projects, exploring open source, and solving coding challenges.  
 Feel free to check out my repositories and connect!
