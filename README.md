@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I am Faiza
+CS student learning python and gaining hands-on coding experience
+Aiming for GSOC'26
+I’m passionate about building projects, exploring open source, and solving coding challenges.  
+Feel free to check out my repositories and connect!
 
 <!--
 **Faiza-cs56/Faiza-cs56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
